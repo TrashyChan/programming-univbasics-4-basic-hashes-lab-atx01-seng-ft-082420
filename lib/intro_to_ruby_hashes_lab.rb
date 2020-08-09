@@ -2,9 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash {
-  :hashin_it => "yellow"
-}
+def my_hash 
+  { :hashin_it => "yellow" }
 end
 
 def pioneer
