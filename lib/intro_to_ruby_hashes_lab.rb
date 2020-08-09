@@ -4,7 +4,8 @@ end
 
 def my_hash {
   :hashin_it[yellow]
-}
+  }
+  end
 end
 
 def pioneer
