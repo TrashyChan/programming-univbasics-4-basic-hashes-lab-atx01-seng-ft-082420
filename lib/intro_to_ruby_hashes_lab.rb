@@ -1,5 +1,5 @@
 def new_hash
-  :
+  :hashin_it[]
 end
 
 def my_hash
